@@ -20,3 +20,13 @@ Shelters and Services: Information on nearby shelters, hospitals, and essential 
 <h4>4. Community Support<br></h4>
 Community Forum: Platform for users to share experiences, tips, and support during and after disasters.<br>
 Volunteer Opportunities: Information on volunteering for disaster relief efforts and community initiatives.<br>
+
+<br><br>Grading: <br>
+## Peer Evaluation
+
+| SR-Code                      |         Members        |  Grade  |              
+| ---------------------------- | ---------------------- | ------- |   
+| 21-05699@g.batstate-u.edu.ph | Cueto, Jonathan T.     |         | 
+| 21-05765@g.batstate-u.edu.ph | Mazan, John Alvin C.   |         | 
+| 21-05867@g.batstate-u.edu.ph | Rilano, Nathaniel L.   |         | 
+| 21-09000@g.batstate-u.edu.ph | Samson, Arvee P.       |         | 

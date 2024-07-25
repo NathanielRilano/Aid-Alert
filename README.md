@@ -19,7 +19,8 @@ Emergency Contacts: One-touch dialing for emergency services (police, fire, medi
 Shelters and Services: Information on nearby shelters, hospitals, and essential services during emergencies.<br><br>
 <h4>4. Community Support<br></h4>
 Community Forum: Platform for users to share experiences, tips, and support during and after disasters.<br>
-Volunteer Opportunities: Information on volunteering for disaster relief efforts and community initiatives.<br>
+Volunteer Opportunities: Information on volunteering for disaster relief efforts and community initiatives.<br><br><br>
+________________________________________________________________________________________________________
 
 <br><br>Grading: <br>
 ## 

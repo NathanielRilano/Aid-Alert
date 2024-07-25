@@ -10,7 +10,7 @@
 <h2>Features of the App:</h2><br>
 <h4>1. Preparedness Tools</h4><br>
 Checklists and Guides: Customizable checklists and step-by-step guides for various types of disasters (e.g., hurricanes, earthquakes).<br>
-Emergency Kit Builder: Interactive tool to help users assemble essential emergency kits tailored to their needs.<br><br>
+Emergency Kit Builder: Interactive tool to help users assemble essential emergency kits tailored to their needs.<br>
 Family Emergency Plan: Templates and guidance for creating and sharing family emergency plans.<br>
 <h4>2. Real-time Alerts and Notifications<br></h4>
 Alerts: Push notifications for severe weather warnings, evacuation notices, and other critical alerts.<br>

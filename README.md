@@ -22,8 +22,7 @@ Community Forum: Platform for users to share experiences, tips, and support duri
 Volunteer Opportunities: Information on volunteering for disaster relief efforts and community initiatives.<br><br><br>
 _________________________________________________________________________________________________________________________________________
 
-<br><br>Grading: <br>
-## 
+<br><br>Grading: 
 
 | SR-Code                      |         Members        |  Grade  |              
 | ---------------------------- | ---------------------- | ------- |   

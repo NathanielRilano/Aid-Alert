@@ -1,6 +1,6 @@
 # Aid-Alert<br><br>
 <h2><b>Project Overview<br></b></h2>
-<center></center><font size=12>The Aid Alert App is a mobile application designed for iOS and Android platforms. Its primary goal is to leverage modern technologies to assist individuals and families in preparing for, responding to, and recovering from natural disasters and emergencies.<br><br>
+<center><font size=12>The Aid Alert App is a mobile application designed for iOS and Android platforms. Its primary goal is to leverage modern technologies to assist individuals and families in preparing for, responding to, and recovering from natural disasters and emergencies.<br><br></font></center>
 <h2>Project Objectives:</h2><br>
 1. Enhance Disaster Preparedness: Provide users with comprehensive resources and tools to prepare effectively for natural disasters and emergencies.<br>
 

@@ -6,7 +6,7 @@ Compatibility will be limited to devices meeting specified technical requirement
 
 • Facilitate Emergency Response: Enable users to quickly access critical information and resources during emergencies.<br>
 
-• Support Recovery Efforts: Assist users in recovering from disasters by providing post-disaster guidance and support.<br><br>
+• Support Recovery Efforts: Assist users in recovering from disasters by providing post-disaster guidance and support.<br>
 
 <h2>Features of the App:</h2><br>
 <h4>1. Preparedness Tools</h4><br>

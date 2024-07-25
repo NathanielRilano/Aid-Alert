@@ -20,7 +20,7 @@ Shelters and Services: Information on nearby shelters, hospitals, and essential 
 <h4>4. Community Support<br></h4>
 Community Forum: Platform for users to share experiences, tips, and support during and after disasters.<br>
 Volunteer Opportunities: Information on volunteering for disaster relief efforts and community initiatives.<br><br><br>
-___________________________________________________________________________________________________________________________________
+_______________________________________________________________________________________________________________________________
 
 <br><br>Grading: 
 
